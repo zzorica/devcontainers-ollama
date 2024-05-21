@@ -1,0 +1,7 @@
+{
+    "name": "ollama",
+    "image": "ollama/ollama:0.1.38",
+    "forwardPorts": [
+        "11434:11434"
+    ]
+}
